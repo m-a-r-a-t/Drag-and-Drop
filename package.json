@@ -1,0 +1,14 @@
+{
+  "name": "draganddrop",
+  "version": "1.0.0",
+  "description": "drag and drop functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "Marat Sabitov <razorlevel@gmail.com>",
+  "license": "ISC"
+}
