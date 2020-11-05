@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(221, 182, 130);
+}
+
+.column {
+    border-radius: 5px;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    box-shadow: 4px 4px 1rem rgb(31, 31, 31);
+    width: 20rem;
+    height: auto;
+    padding: 50px 20px;
+    background: rgb(211, 129, 129);
+    transition: .1s;
+}
+
+.column:hover {
+    box-shadow: 4px 4px .5rem rgb(31, 31, 31);
+}
+
+.message {
+    border-radius: 5px;
+    height: 2rem;
+    background: rgb(224, 202, 162);
+    margin-bottom: 5px;
+    width: 20rem;
+
+}
+
+
+
+.dragzone {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
